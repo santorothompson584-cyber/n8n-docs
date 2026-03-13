@@ -12,7 +12,7 @@ hide:
 
 This section provides guidance on setting up n8n for both the Enterprise and Community self-hosted editions. The Community edition is free, the Enterprise edition isn't. 
 
-See [Community edition features](/hosting/community-edition-features.md) for a list of available features. 
+See [Community edition features](/hosting/community-edintion-features.md) for a list of available features. 
 
 <div class="grid-cards-vertical cards" markdown>
 
